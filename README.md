@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jreneo
 - 🌱 I’m currently learning C and GML
-- 📫 jayreneo123@gmail.com or linked-in.com/james-reneo
+- 👀 I’m interested in AI, game development, and software!
+- 📫 Reach me on LinkedIn: James Reneo
 
 <!---
 jreneo/jreneo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
