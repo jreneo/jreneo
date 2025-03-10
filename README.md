@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jreneo
-- 🌱 I’m currently learning C and GML
+- 🌱 I’m currently learning Python and C++
 - 👀 I’m interested in AI, game development, and software!
 - 📫 Reach me on LinkedIn: James Reneo
 
